@@ -1,0 +1,31 @@
+{
+    "recommendations": [
+        // Code Spell Checker
+        // https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+        "streetsidesoftware.code-spell-checker",
+
+        // Java Extension Pack
+        // https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+        "vscjava.vscode-java-pack",
+
+        // Markdown All in One
+        // https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+        "yzhang.markdown-all-in-one",
+        
+        // GitHub Markdown Preview
+        // https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
+        "bierner.github-markdown-preview",
+
+        // Live Share
+        // https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+        "MS-vsliveshare.vsliveshare",
+
+        // Coverage Gutters
+        // https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters
+        "ryanluker.vscode-coverage-gutters",
+                
+        // Git Graph
+        // https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+        "mhutchie.git-graph",
+    ]
+}
